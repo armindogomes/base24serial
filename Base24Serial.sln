@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base24Serial", "Base24Serial\Base24Serial.csproj", "{20D5869D-B756-4CD3-A4A9-2E6E010F84EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D5869D-B756-4CD3-A4A9-2E6E010F84EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D5869D-B756-4CD3-A4A9-2E6E010F84EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D5869D-B756-4CD3-A4A9-2E6E010F84EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D5869D-B756-4CD3-A4A9-2E6E010F84EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBE7388-FFD2-4D69-A7B0-FEAF33F06A50}
+	EndGlobalSection
+EndGlobal
