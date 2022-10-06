@@ -1,18 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <AssemblyVersion>1.0.5</AssemblyVersion>
-    <FileVersion>1.0.5</FileVersion>
-    <Version>1.0.5</Version>
+    <AssemblyVersion>1.0.6</AssemblyVersion>
+    <FileVersion>1.0.6</FileVersion>
+    <Version>1.0.6</Version>
     <PackageProjectUrl>https://github.com/armindogomes/base24serial</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>Armindo Gomes</Authors>
     <Company />
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <!--<PackageReadmeFile>README.md</PackageReadmeFile>-->
     <Description>The purpose of this code is providing an easy way to convert from base-16 into base-24 (5x5 format; used in many products serial numbers)</Description>
     <RepositoryUrl>https://github.com/armindogomes/base24serial</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
