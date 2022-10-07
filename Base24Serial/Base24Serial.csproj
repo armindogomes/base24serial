@@ -11,10 +11,15 @@
     <PackageProjectUrl>https://github.com/armindogomes/base24serial</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>Armindo Gomes</Authors>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <Company />
     <Description>The purpose of this code is providing an easy way to convert from base-16 into base-24 (5x5 format; used in many products serial numbers)</Description>
     <RepositoryUrl>https://github.com/armindogomes/base24serial</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>base24 base16 serial</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="docs\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
