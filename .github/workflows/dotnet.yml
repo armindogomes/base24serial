@@ -29,4 +29,3 @@ jobs:
         PROJECT_FILE_PATH: Base24Serial/Base24Serial.csproj
         NUGET_KEY: ${{secrets.NUGET_API_KEY}}
         TAG_FORMAT: v*
-        BUILD_CONFIGURATION: Release
