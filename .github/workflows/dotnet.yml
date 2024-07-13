@@ -18,7 +18,7 @@ jobs:
         dotnet-version: '8.0.x'
         
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore Base24Serial/Base24Serial.sln
       
     - name: Build
       run: dotnet build --configuration Release --no-restore Base24Serial/Base24Serial.sln
